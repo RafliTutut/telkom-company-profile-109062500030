@@ -17,4 +17,26 @@ database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
  <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div>
 </div>
 </section>
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Fokus Pembelajaran</span>
+            <h2>Apa yang akan kamu pelajari?</h2>
+        </div>
+        <div class="grid-3">
+            <article class="card futsal">
+                <h3>Futsal</h3>
+                <p>Melatih kerja sama tim, kelincahan, serta teknik penguasaan bola di lapangan dalam.</p>
+            </article>
+            <article class="card basket">
+                <h3>Basket</h3>
+                <p>Mengembangkan stamina, akurasi tembakan, dan strategi permainan beregu yang cepat.</p>
+            </article>
+            <article class="card bulutangkis">
+                <h3>Bulutangkis</h3>
+                <p>Melatih refleks, kecepatan gerak kaki, dan variasi pukulan servis maupun smash.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
