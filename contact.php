@@ -31,3 +31,5 @@ require 'includes/header.php';
     </div>
 </section>
 <?php require 'includes/footer.php'; ?>
+
+<div class="container grid-2">
